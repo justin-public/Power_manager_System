@@ -1,0 +1,832 @@
+>> Tue,12:49:51 dev:1:PC:on:
+>> Tue,12:49:55 dev:1:PC:off:
+>> Tue,12:50:20 group button event
+>> Tue,12:50:30 group button event
+>> Tue,12:50:41 group button event
+>> Tue,12:52:34 dev:1:PC:on:
+>> Tue,12:53:30 dev:2:PRJ:off:
+>> Tue,12:53:53 dev:2:PRJ:off:
+>> Tue,12:54:01 dev:2:PRJ:off:
+>> Tue,12:54:02 dev:2:PRJ:off:
+>> Tue,12:54:03 dev:2:PRJ:off:
+>> Tue,12:54:04 dev:2:PRJ:off:
+>> Tue,12:54:33 dev:2:PRJ:off:
+>> Tue,14:07:46 dev:1:PC:on:
+>> Tue,14:07:52 dev:1:PC:on:
+>> Tue,14:08:29 dev:1:PC:on:
+>> Tue,14:25:26 dev:1:PC:on:
+>> Tue,14:25:30 dev:1:PC:on:
+>> Tue,14:25:46 dev:1:PC:on:
+>> Tue,14:25:47 dev:1:PC:off:
+>> Tue,14:25:48 dev:1:PC:on:
+>> Tue,14:26:40 dev:1:PC:on:
+>> Tue,14:27:36 dev:1:PC:on:
+>> Tue,14:27:38 dev:1:PC:on:
+>> Tue,14:27:38 dev:1:PC:on:
+>> Tue,14:37:07 dev:1:PC:on:
+>> Tue,14:45:15 dev:2:PRJ:on:
+>> Tue,14:45:31 dev:2:PRJ:on:
+>> Tue,14:45:49 dev:2:PRJ:off:
+>> Tue,14:46:00 dev:1:PC:off:
+>> Tue,14:49:30 dev:4:PRJ:on:
+>> Tue,14:50:05 dev:4:PRJ:off:
+>> Tue,14:56:04 dev:2:PRJ:on:
+>> Tue,14:56:13 dev:2:PRJ:on:
+>> Tue,15:01:28 group button event
+>> Tue,15:02:47 group button event
+>> Tue,15:03:20 group button event
+>> Tue,15:05:31 dev:2:PRJ:on:
+>> Tue,15:30:54 group button event
+>> Tue,15:31:11 group button event
+>> Tue,15:31:24 group button event
+>> Tue,15:34:24 dev:4:PRJ:on:
+>> Tue,15:47:31 dev:2:PRJ:on:
+>> Tue,15:47:38 dev:2:PRJ:on:
+>> Tue,15:47:44 dev:1:PC:on:
+>> Tue,15:47:47 dev:4:PRJ:on:
+>> Tue,15:47:51 dev:11:RELAY:on:
+>> Tue,15:47:52 dev:2:PRJ:on:
+>> Tue,15:47:55 dev:2:PRJ:on:
+>> Tue,15:48:19 dev:2:PRJ:on:
+>> Tue,15:48:38 dev:2:PRJ:on:
+>> Tue,15:48:39 dev:2:PRJ:on:
+>> Tue,15:48:40 dev:2:PRJ:on:
+>> Tue,15:53:23 dev:2:PRJ:on:
+>> Tue,15:55:21 group button event
+>> Tue,15:55:34 group button event
+>> Tue,15:55:46 group button event
+>> Tue,15:30:17 dev:1::off:
+>> Tue,15:30:18 dev:1::on:
+>> Tue,15:30:19 dev:1::on:
+>> Tue,15:30:20 dev:1::off:
+>> Tue,15:30:20 dev:1::on:
+>> Tue,16:16:35 dev:1::off:
+>> Tue,16:16:38 dev:1::off:
+>> Tue,16:30:33 dev:2:PRJ:on:
+>> Tue,16:31:43 dev:2:PRJ:off:
+>> Tue,16:42:05 dev:2:PRJ:on:
+>> Tue,16:42:30 dev:2:PRJ:off:
+>> Tue,16:50:13 192.168.2.204:PRJ:on:
+>> Tue,16:58:09 192.168.2.202:PRJ:on:
+>> Tue,16:58:17 192.168.2.204:PRJ:on:
+>> Tue,16:59:04 192.168.2.204:PRJ:on:
+>> Tue,16:59:07 192.168.2.204:PRJ:on:
+>> Tue,16:59:14 192.168.2.204:PRJ:on:
+>> Tue,17:01:42 192.168.2.204:PRJ:on:
+>> Tue,17:01:46 192.168.2.204:PRJ:on:
+>> Tue,17:01:50 192.168.2.204:PRJ:on:
+>> Tue,17:09:40 192.168.2.204:PRJ:on:
+>> Tue,17:09:45 192.168.2.204:PRJ:on:
+>> Tue,17:11:45 192.168.2.204:PRJ:on:
+>> Tue,17:11:48 192.168.2.204:PRJ:on:
+>> Tue,17:11:51 192.168.2.204:PRJ:on:
+>> Tue,17:14:14 192.168.2.204:PRJ:on:
+>> Tue,17:14:22 192.168.2.204:PRJ:on:
+>> Tue,17:17:39 IP:192.168.2.204:PRJ:on:
+>> Tue,17:17:42 IP:192.168.2.204:PRJ:on:
+>> Tue,17:24:56 IP:192.168.2.204:PRJ:on:
+>> Tue,17:25:12 IP:192.168.2.204:PRJ:on:
+>> Tue,17:26:27 IP:192.168.2.204:PRJ:off:
+>> Tue,17:31:54 IP:192.168.2.204:PRJ:on:
+>> Tue,17:55:00 IP:192.168.2.204:PRJ:on:
+>> Tue,18:12:26 IP:192.168.2.204:PRJ:on:
+>> Tue,18:12:44 IP:192.168.2.204:PRJ:on:
+>> Wed,10:29:56 IP:192.168.2.204:PRJ:on:
+>> Wed,10:46:49 IP:192.168.2.204:PRJ:on:
+>> Wed,10:47:07 IP:192.168.2.204:PRJ:off:
+>> Wed,10:57:08 IP:192.168.2.204:PRJ:on:
+>> Wed,11:00:10 IP:192.168.2.204:PRJ:on:
+>> Wed,11:00:16 IP:192.168.2.204:PRJ:off:
+>> Wed,11:16:05 IP:192.168.2.204:PRJ:on:
+>> Wed,11:17:46 IP:192.168.2.204:PRJ:off:
+>> Wed,11:29:01 IP:192.168.2.204:PRJ:on:
+>> Wed,11:30:28 IP:192.168.2.204:PRJ:off:
+>> Wed,11:35:11 IP:192.168.2.204:PRJ:on:
+>> Wed,11:36:14 IP:192.168.2.204:PRJ:off:
+>> Wed,11:59:22 IP:192.168.2.215:PRJ:on:
+>> Wed,12:00:35 IP:192.168.2.204:PRJ:on:
+>> Wed,12:00:50 IP:192.168.2.204:PRJ:on:
+>> Wed,12:01:07 IP:192.168.2.204:PRJ:on:
+>> Wed,12:01:23 IP:192.168.2.204:PRJ:on:
+>> Wed,12:04:23 IP:192.168.2.204:PRJ:off:
+>> Wed,12:04:25 IP:192.168.2.215:PRJ:off:
+>> Wed,12:07:30 IP:192.168.2.215:PRJ:on:
+>> Wed,12:07:54 IP:192.168.2.204:PRJ:on:
+>> Wed,12:11:59 IP:192.168.2.204:PRJ:off:
+>> Wed,12:12:10 IP:192.168.2.215:PRJ:off:
+>> Wed,12:20:06 IP:192.168.2.215:PRJ:on:
+>> Wed,12:21:33 IP:192.168.2.204:PRJ:on:
+>> Wed,12:21:35 IP:192.168.2.215:PRJ:off:
+>> Wed,12:23:32 IP:192.168.2.204:PRJ:off:
+>> Wed,12:27:12 IP:192.168.2.204:PRJ:on:
+>> Wed,12:28:13 IP:192.168.2.204:PRJ:off:
+>> Wed,12:41:21 IP:192.168.2.204:PRJ:on:
+>> Wed,12:42:04 IP:192.168.2.204:PRJ:off:
+>> Wed,12:44:35 IP:192.168.2.215:PRJ:on:
+>> Wed,12:47:17 IP:192.168.2.215:PRJ:off:
+>> Wed,12:51:20 IP:192.168.2.215:PRJ:on:
+>> Wed,12:53:08 IP:192.168.2.215:PRJ:off:
+>> Wed,13:54:55 IP:192.168.2.215:PRJ:on:
+>> Wed,14:09:38 IP:192.168.2.215:PRJ:on:
+>> Wed,14:11:59 IP:192.168.2.215:PRJ:off:
+>> Wed,14:13:01 IP:192.168.2.204:PRJ:on:
+>> Wed,14:14:15 IP:192.168.2.204:PRJ:off:
+>> Wed,14:26:36 IP:192.168.2.204:PRJdev:1:on:
+>> Wed,14:26:43 IP:192.168.2.204:PRJdev:1:on:
+>> Wed,14:26:47 IP:192.168.2.204:PRJdev:1:on:
+>> Wed,14:26:50 IP:192.168.2.204:PRJdev:1:on:
+>> Wed,14:26:54 IP:192.168.2.204:PRJdev:1:on:
+>> Wed,14:26:56 IP:192.168.2.204:PRJdev:1:on:
+>> Wed,14:27:01 IP:192.168.2.204:PRJdev:1:on:
+>> Wed,14:28:23 IP:192.168.2.204:PRJdev:1:on:
+>> Wed,14:28:25 IP:192.168.2.204:PRJdev:1:on:
+>> Wed,14:31:10 IP:192.168.2.204:PRJ1:on:
+>> Wed,14:31:18 IP:192.168.2.204:PRJ1:on:
+>> Wed,14:31:48 IP:192.168.2.204:PRJ1:on:
+>> Wed,14:31:52 IP:192.168.2.204:PRJ1:on:
+>> Wed,14:31:58 IP:192.168.2.204:PRJ1:on:
+>> Wed,14:37:41 dev:1:192.168.2.204:PRJ:on:
+>> Wed,14:41:47 dev:1:192.168.2.204:PRJ:on:
+>> Wed,14:41:57 dev:1:192.168.2.204:PRJ:on:
+>> Wed,14:42:48 dev:1:192.168.2.204:PRJ:on:
+>> Wed,14:43:41 dev:1:192.168.2.204:PRJ:off:
+>> Wed,14:49:18 dev:1:192.168.2.204:PRJ:on:
+>> Wed,15:00:04 dev:1:192.168.2.204:PRJ:on:
+>> Wed,15:03:25 dev:1:192.168.2.204:PRJ:on:
+>> Wed,15:03:27 dev:1:192.168.2.204:PRJ:on:
+>> Wed,15:03:35 dev:1:192.168.2.204:PRJ:on:
+>> Wed,15:05:09 dev:1:192.168.2.204:PRJ:on:
+>> Wed,15:05:17 dev:1:192.168.2.204:PRJ:off:
+>> Wed,15:05:30 dev:1:192.168.2.204:PRJ:off:
+>> Wed,15:05:55 dev:1:192.168.2.204:PRJ:off:
+>> Wed,15:06:52 dev:1:192.168.2.204:PRJ:on:
+>> Wed,15:06:57 dev:1:192.168.2.204:PRJ:on:
+>> Wed,15:07:06 dev:1:192.168.2.204:PRJ:on:
+>> Wed,15:07:10 dev:1:192.168.2.204:PRJ:on:
+>> Wed,15:07:21 dev:1:192.168.2.204:PRJ:off:
+>> Wed,15:07:51 dev:1:192.168.2.204:PRJ:off:
+>> Wed,15:07:53 dev:1:192.168.2.204:PRJ:on:
+>> Wed,15:15:52 dev:1:192.168.2.204:PRJ:off:
+>> Wed,15:24:34 dev:1:192.168.2.204:PRJ:on:
+>> Wed,15:27:07 dev:1:192.168.2.204:PRJ:off:
+>> Wed,15:42:16 dev:1:192.168.2.204:PRJ:on:
+>> Wed,16:48:57 dev:1:192.168.2.204:PRJ:on:
+>> Wed,16:56:43 dev:1:192.168.2.204:PRJ:off:
+>> Wed,17:02:57 dev:1:192.168.2.204:PRJ:on:
+>> Wed,17:03:34 dev:1:192.168.2.204:PRJ:off:
+>> Wed,17:04:44 dev:1:192.168.2.204:PRJ:off:
+>> Thu,12:32:48 dev:1:192.168.2.204:PRJ:on:
+>> Thu,12:38:29 dev:1:192.168.2.204:PRJ:off:
+>> Thu,12:42:31 dev:1:192.168.2.204:PRJ:on:
+>> Thu,12:47:17 dev:1:192.168.2.204:PRJ:off:
+>> Thu,16:10:30 dev:1:192.168.2.204:PRJ:on:
+>> Thu,16:21:44 dev:1:192.168.2.204:PRJ:on:
+>> Thu,16:27:45 dev:1:192.168.2.204:PRJ:off:
+>> Thu,16:30:46 dev:1:192.168.2.204:PRJ:on:
+>> Thu,16:31:52 dev:1:192.168.2.204:PRJ:off:
+>> Mon,17:11:14 dev:1:192.168.2.204:PRJ:on:
+>> Mon,17:11:20 dev:1:192.168.2.204:PRJ:on:
+>> Mon,17:11:23 dev:1:192.168.2.204:PRJ:on:
+>> Mon,17:11:23 dev:1:192.168.2.204:PRJ:on:
+>> Mon,17:11:23 dev:1:192.168.2.204:PRJ:on:
+>> Mon,17:11:23 dev:1:192.168.2.204:PRJ:on:
+>> Mon,17:11:24 dev:1:192.168.2.204:PRJ:on:
+>> Mon,17:11:24 dev:1:192.168.2.204:PRJ:on:
+>> Mon,17:11:24 dev:1:192.168.2.204:PRJ:on:
+>> Mon,17:11:24 dev:1:192.168.2.204:PRJ:on:
+>> Mon,17:11:24 dev:1:192.168.2.204:PRJ:on:
+>> Mon,17:12:07 dev:1:192.168.2.204:PRJ:off:
+>> Mon,17:12:11 dev:1:192.168.2.204:PRJ:on:
+>> Mon,17:12:52 dev:1:192.168.2.204:PRJ:off:
+>> Mon,19:34:07 dev:1:192.168.2.204:PRJ:on:
+>> Mon,19:34:18 dev:1:192.168.2.204:PRJ:on:
+>> Mon,19:35:09 dev:1:192.168.2.204:PRJ:on:
+>> Mon,19:36:04 dev:1:192.168.2.204:PRJ:off:
+>> Mon,19:40:16 dev:1:192.168.2.204:PRJ:on:
+>> Mon,19:41:07 dev:1:192.168.2.204:PRJ:off:
+>> Mon,19:45:47 dev:1:192.168.2.204:PRJ:on:
+>> Mon,19:46:58 dev:1:192.168.2.204:PRJ:off:
+>> Tue,10:13:52 dev:1:192.168.2.204:PRJ:on:
+>> Tue,10:20:50 dev:1:192.168.2.204:PRJ:off:
+>> Tue,10:28:39 dev:1:192.168.2.204:PRJ:on:
+>> Tue,10:31:20 dev:1:192.168.2.204:PRJ:off:
+>> Tue,10:34:03 dev:1:192.168.2.204:PRJ:on:
+>> Tue,10:34:42 dev:1:192.168.2.204:PRJ:off:
+>> Tue,10:36:01 dev:1:192.168.2.204:PRJ:on:
+>> Tue,10:36:36 dev:1:192.168.2.204:PRJ:off:
+>> Tue,10:36:42 dev:1:192.168.2.204:PRJ:off:
+>> Tue,10:38:02 dev:1:192.168.2.204:PRJ:off:
+>> Tue,10:38:06 dev:1:192.168.2.204:PRJ:off:
+>> Tue,10:38:23 dev:1:192.168.2.204:PRJ:off:
+>> Tue,10:38:29 dev:1:192.168.2.204:PRJ:off:
+>> Tue,10:41:34 dev:1:192.168.2.204:PRJ:on:
+>> Tue,10:44:34 dev:1:192.168.2.204:PRJ:on:
+>> Tue,10:57:20 dev:1:192.168.2.204:PRJ:off:
+>> Tue,11:01:10 dev:1:192.168.2.204:PRJ:on:
+>> Tue,11:04:43 dev:1:192.168.2.204:PRJ:off:
+>> Tue,11:41:38 dev:1:192.168.2.204:PRJ:on:
+>> Tue,11:42:23 dev:1:192.168.2.204:PRJ:on:
+>> Tue,11:42:31 dev:1:192.168.2.204:PRJ:on:
+>> Tue,11:43:53 dev:1:192.168.2.204:PRJ:on:
+>> Tue,11:46:14 dev:1:192.168.2.204:PRJ:on:
+>> Tue,11:47:41 dev:1:192.168.2.204:PRJ:on:
+>> Tue,11:51:16 dev:1:192.168.2.204:PRJ:on:
+>> Tue,11:55:47 dev:1:192.168.2.204:PRJ:on:
+>> Tue,11:58:24 dev:1:192.168.2.204:PRJ:on:
+>> Tue,12:00:10 dev:1:192.168.2.204:PRJ:on:
+>> Tue,12:03:22 dev:1:192.168.2.204:PRJ:on:
+>> Tue,12:11:41 dev:1:192.168.2.204:PRJ:on:
+>> Tue,12:11:44 dev:1:192.168.2.204:PRJ:on:
+>> Tue,12:13:13 dev:1:192.168.2.204:PRJ:on:
+>> Tue,12:13:16 dev:1:192.168.2.204:PRJ:on:
+>> Tue,12:14:36 dev:1:192.168.2.204:PRJ:on:
+>> Tue,12:20:19 dev:1:192.168.2.204:PRJ:on:
+>> Tue,12:26:06 dev:1:192.168.2.204:PRJ:on:
+>> Tue,12:27:57 dev:1:192.168.2.204:PRJ:on:
+>> Tue,12:30:30 dev:1:192.168.2.204:PRJ:on:
+>> Tue,12:31:25 dev:1:192.168.2.204:PRJ:on:
+>> Tue,12:39:17 dev:1:192.168.2.204:PRJ:on:
+>> Tue,12:40:44 dev:1:192.168.2.204:PRJ:on:
+>> Tue,12:42:44 dev:1:192.168.2.204:PRJ:on:
+>> Tue,12:45:07 dev:1:192.168.2.204:PRJ:on:
+>> Tue,12:48:51 dev:1:192.168.2.204:PRJ:on:
+>> Tue,12:50:31 dev:1:192.168.2.204:PRJ:on:
+>> Tue,12:50:35 dev:1:192.168.2.204:PRJ:on:
+>> Tue,12:54:24 dev:1:192.168.2.204:PRJ:on:
+>> Tue,12:55:09 dev:2:192.168.2.204:PRJ:on:
+>> Tue,12:56:17 dev:2:192.168.2.204:PRJ:on:
+>> Tue,12:58:36 dev:1:192.168.2.204:PRJ:on:
+>> Tue,14:33:08 dev:1:192.168.2.204:PRJ:on:
+>> Tue,14:33:18 dev:1:192.168.2.204:PRJ:on:
+>> Tue,14:34:57 dev:1:192.168.2.204:PRJ:on:
+>> Tue,14:35:40 dev:1:192.168.2.204:PRJ:off:
+>> Tue,14:39:28 dev:1:192.168.2.204:PRJ:on:
+>> Tue,14:40:26 dev:1:192.168.2.204:PRJ:off:
+>> Tue,14:41:47 dev:1:192.168.2.204:PRJ:on:
+>> Tue,14:44:01 dev:1:192.168.2.204:PRJ:on:
+>> Tue,14:51:46 dev:1:192.168.2.204:PRJ:off:
+>> Tue,14:52:15 dev:1:192.168.2.204:PRJ:off:
+>> Tue,15:08:41 dev:1:192.168.2.204:PRJ:on:
+>> Tue,15:09:26 dev:1:192.168.2.204:PRJ:off:
+>> Tue,15:37:01 dev:1:192.168.2.204:PRJ:on:
+>> Tue,15:38:11 dev:1:192.168.2.204:PRJ:off:
+>> Tue,16:07:09 dev:1:192.168.2.204:PRJ:on:
+>> Tue,16:13:14 dev:1:192.168.2.204:PRJ:off:
+>> Tue,16:14:36 dev:1:192.168.2.204:PRJ:on:
+>> Tue,16:17:14 dev:1:192.168.2.204:PRJ:on:
+>> Tue,16:17:22 dev:1:192.168.2.204:PRJ:off:
+>> Tue,16:19:35 dev:2:192.168.2.204:PRJ:on:
+>> Tue,16:20:56 dev:2:192.168.2.204:PRJ:on:
+>> Tue,16:22:04 dev:2:192.168.2.204:PRJ:off:
+>> Tue,16:24:41 dev:3:192.168.2.204:PRJ:on:
+>> Tue,16:33:00 dev:3:192.168.2.204:PRJ:on:
+>> Tue,16:33:41 dev:3:192.168.2.204:PRJ:on:
+>> Tue,16:37:59 dev:3:192.168.2.204:PRJ:on:
+>> Tue,16:38:25 dev:1:::on:
+>> Tue,16:38:26 dev:2:::on:
+>> Tue,16:38:27 dev:3:192.168.2.204:PRJ:on:
+>> Tue,16:38:29 dev:4:::on:
+>> Tue,16:38:30 dev:5:::on:
+>> Tue,16:39:12 dev:3:192.168.2.204:PRJ:on:
+>> Tue,16:39:15 dev:3:192.168.2.204:PRJ:on:
+>> Tue,16:40:05 dev:3:192.168.2.204:PRJ:on:
+>> Tue,16:40:17 dev:3:192.168.2.204:PRJ:off:
+>> Tue,16:42:53 dev:3:192.168.2.204:PRJ:on:
+>> Tue,16:46:01 dev:3:192.168.2.204:PRJ:on:
+>> Tue,16:46:03 dev:3:192.168.2.204:PRJ:on:
+>> Tue,16:46:03 dev:3:192.168.2.204:PRJ:on:
+>> Tue,16:46:03 dev:3:192.168.2.204:PRJ:on:
+>> Tue,16:46:03 dev:3:192.168.2.204:PRJ:on:
+>> Tue,16:46:04 dev:3:192.168.2.204:PRJ:on:
+>> Tue,16:46:04 dev:3:192.168.2.204:PRJ:on:
+>> Tue,16:46:04 dev:3:192.168.2.204:PRJ:on:
+>> Tue,16:46:04 dev:3:192.168.2.204:PRJ:on:
+>> Tue,16:46:04 dev:3:192.168.2.204:PRJ:on:
+>> Tue,16:47:16 dev:3:192.168.2.204:PRJ:off:
+>> Tue,16:47:19 dev:3:192.168.2.204:PRJ:off:
+>> Tue,16:48:54 dev:3:::on:
+>> Tue,16:49:34 dev:3:192.168.2.204:PRJ:on:
+>> Tue,16:51:22 dev:3:::on:
+>> Tue,16:51:23 dev:3:::on:
+>> Tue,16:51:29 dev:3:::on:
+>> Tue,16:51:29 dev:3:::on:
+>> Tue,16:51:29 dev:3:::on:
+>> Tue,16:51:29 dev:3:::on:
+>> Tue,16:51:30 dev:3:::on:
+>> Tue,16:51:30 dev:3:::on:
+>> Tue,16:51:30 dev:3:::on:
+>> Tue,16:51:30 dev:3:::on:
+>> Tue,16:51:30 dev:3:::on:
+>> Tue,16:51:31 dev:3:::on:
+>> Tue,16:51:48 dev:3:::on:
+>> Tue,16:52:20 dev:7:192.168.2.204:PRJ:on:
+>> Tue,16:52:24 dev:7:192.168.2.204:PRJ:on:
+>> Tue,16:52:26 dev:7:192.168.2.204:PRJ:on:
+>> Tue,16:52:40 dev:7:192.168.2.204:PRJ:off:
+>> Tue,16:54:14 dev:7:192.168.2.204:PRJ:off:
+>> Tue,16:57:04 dev:3:192.168.2.204:PRJ:on:
+>> Tue,16:58:06 dev:3:192.168.2.204:PRJ:off:
+>> Tue,17:05:29 dev:3:192.168.2.204:PRJ:on:
+>> Tue,17:07:22 dev:3:192.168.2.204:PRJ:off:
+>> Tue,17:19:32 dev:3:192.168.2.204:PRJ:on:
+>> Tue,17:20:25 dev:3:192.168.2.204:PRJ:off:
+>> Tue,17:26:35 dev:3:192.168.2.203:PRJ:on:
+>> Tue,17:27:16 dev:3:192.168.2.203:PRJ:on:
+>> Tue,17:27:21 dev:3:192.168.2.203:PRJ:on:
+>> Tue,17:27:23 dev:3:192.168.2.203:PRJ:on:
+>> Tue,17:27:24 dev:3:192.168.2.203:PRJ:on:
+>> Tue,17:27:25 dev:3:192.168.2.203:PRJ:on:
+>> Tue,17:27:25 dev:3:192.168.2.203:PRJ:on:
+>> Tue,17:27:27 dev:3:192.168.2.203:PRJ:on:
+>> Tue,17:27:27 dev:3:192.168.2.203:PRJ:on:
+>> Tue,17:27:58 dev:3:192.168.2.203:PRJ:on:
+>> Tue,17:28:03 dev:3:192.168.2.203:PRJ:on:
+>> Tue,17:28:05 dev:3:192.168.2.203:PRJ:on:
+>> Tue,17:28:07 dev:3:192.168.2.203:PRJ:off:
+>> Tue,17:29:23 dev:3:192.168.2.204:PRJ:on:
+>> Tue,17:30:24 dev:3:192.168.2.204:PRJ:on:
+>> Tue,17:40:41 dev:3:192.168.2.204:PRJ:on:
+>> Tue,17:40:44 dev:3:192.168.2.204:PRJ:on:
+>> Tue,17:44:14 dev:3:192.168.2.204:PRJ:off:
+>> Tue,17:44:25 dev:3:192.168.2.204:PRJ:off:
+>> Tue,18:14:06 dev:61:::on:
+>> Tue,18:14:21 dev:3:192.168.2.204:PRJ:on:
+>> Wed,11:33:33 dev:1:192.168.2.204:PRJ:on:
+>> Wed,11:34:47 dev:1:192.168.2.204:PRJ:off:
+>> Wed,11:47:48 dev:1:192.168.2.204:PRJ:on:
+>> Wed,11:49:05 dev:1:192.168.2.204:PRJ:on:
+>> Wed,11:55:07 dev:1:192.168.2.204:PRJ:on:
+>> Wed,11:58:05 dev:1:192.168.2.204:PRJ:on:
+>> Wed,11:58:10 dev:1:192.168.2.204:PRJ:on:
+>> Wed,11:58:27 dev:1:192.168.2.204:PRJ:off:
+>> Wed,11:58:27 dev:1:192.168.2.204:PRJ:off:
+>> Wed,11:58:28 dev:1:192.168.2.204:PRJ:off:
+>> Wed,11:58:28 dev:1:192.168.2.204:PRJ:on:
+>> Wed,11:58:29 dev:1:192.168.2.204:PRJ:on:
+>> Wed,12:00:31 dev:1:192.168.2.204:PRJ:on:
+>> Wed,12:01:28 dev:1:192.168.2.204:PRJ:off:
+>> Wed,12:06:09 dev:7:192.168.2.204:PRJ:on:
+>> Wed,12:10:56 dev:1:::on:
+>> Wed,12:10:58 dev:2:::on:
+>> Wed,12:10:59 dev:3:::on:
+>> Wed,12:11:00 dev:4:::on:
+>> Wed,12:11:01 dev:5:::on:
+>> Wed,12:11:02 dev:6:::on:
+>> Wed,15:27:37 dev:1:192.168.2.204:PRJ:on:
+>> Wed,15:31:35 dev:1:192.168.2.204:PRJ:off:
+>> Wed,15:39:08 dev:1:192.168.2.204:PRJ:on:
+>> Thu,10:24:10 dev:1:192.168.2.204:PRJ:on:
+>> Thu,10:26:30 dev:1:192.168.2.204:PRJ:off:
+>> Thu,10:30:36 dev:1:192.168.2.204:PRJ:on:
+>> Thu,10:31:22 dev:1:192.168.2.204:PRJ:off:
+>> Thu,10:38:34 dev:1:192.168.2.204:PRJ:on:
+>> Thu,10:53:06 dev:1:192.168.2.204:PRJ:off:
+>> Thu,11:06:58 dev:3:192.168.2.204:PRJ:on:
+>> Thu,11:37:52 dev:1:192.168.2.204:PRJ:on:
+>> Thu,11:41:27 dev:1:192.168.2.204:PRJ:on:
+>> Thu,11:55:17 dev:1:192.168.2.204:PRJ:on:
+>> Thu,11:59:33 dev:1:192.168.2.204:PRJ:off:
+>> Thu,12:01:40 dev:2:192.168.2.204:PRJ:on:
+>> Thu,12:06:17 dev:2:192.168.2.204:PRJ:on:
+>> Thu,12:06:34 dev:2:192.168.2.204:PRJ:on:
+>> Thu,12:06:36 dev:2:192.168.2.204:PRJ:on:
+>> Thu,12:10:58 dev:2:192.168.2.204:PRJ:on:
+>> Thu,12:11:30 dev:2:192.168.2.204:PRJ:on:
+>> Thu,12:11:35 dev:2:192.168.2.204:PRJ:off:
+>> Thu,12:13:30 dev:2:192.168.2.204:PRJ:on:
+>> Thu,12:25:35 dev:2:192.168.2.204:PRJ:on:
+>> Thu,12:35:28 dev:2:192.168.2.204:PRJ:on:
+>> Thu,12:38:38 dev:2:192.168.2.204:PRJ:on:
+>> Thu,12:44:13 dev:2:192.168.2.204:PRJ:on:
+>> Thu,12:47:56 dev:2:192.168.2.204:PRJ:off:
+>> Thu,12:50:40 dev:2:192.168.2.204:PRJ:off:
+>> Thu,12:51:30 dev:2:192.168.2.204:PRJ:on:
+>> Thu,12:52:37 dev:2:192.168.2.204:PRJ:off:
+>> Thu,14:27:24 dev:12:192.168.2.204:PRJ:on:
+>> Thu,14:30:33 dev:12:192.168.2.204:PRJ:on:
+>> Thu,14:44:59 dev:12:192.168.2.204:PRJ:off:
+>> Thu,14:47:23 dev:12:192.168.2.204:PRJ:on:
+>> Thu,15:10:57 dev:12:192.168.2.204:PRJ:on:
+>> Thu,15:21:29 dev:12:192.168.2.204:PRJ:off:
+>> Thu,15:21:38 dev:12:192.168.2.204:PRJ:on:
+>> Thu,15:22:27 dev:12:192.168.2.204:PRJ:on:
+>> Thu,15:23:47 dev:1:192.168.2.204:PRJ:on:
+>> Thu,15:27:37 dev:1:192.168.2.204:PRJ:off:
+>> Thu,15:37:18 dev:1:192.168.2.204:PRJ:on:
+>> Thu,15:50:20 dev:1:192.168.2.204:PRJ:off:
+>> Thu,16:01:54 dev:1:192.168.2.204:PRJ:on:
+>> Thu,16:02:54 dev:1:192.168.2.204:PRJ:off:
+>> Thu,16:08:26 dev:1:192.168.2.204:PRJ:on:
+>> Thu,16:09:46 dev:1:192.168.2.204:PRJ:off:
+>> Thu,16:14:10 dev:1:192.168.2.204:PRJ:on:
+>> Thu,17:09:54 dev:41:::on:
+>> Thu,17:13:09 dev:2:192.168.2.215:PRJ:on:
+>> Thu,17:13:30 dev:2:192.168.2.215:PRJ:on:
+>> Thu,17:33:43 dev:2:192.168.2.215:PRJ:on:
+>> Thu,17:35:59 dev:2:192.168.2.215:PRJ:off:
+>> Thu,17:37:52 dev:1:192.168.2.204:PRJ:on:
+>> Thu,17:38:40 dev:2:192.168.2.215:PRJ:on:
+>> Thu,17:41:07 dev:2:192.168.2.215:PRJ:off:
+>> Thu,17:41:08 dev:1:192.168.2.204:PRJ:off:
+>> Thu,17:54:26 dev:1:192.168.2.204:PRJ:on:
+>> Thu,17:55:46 dev:1:192.168.2.204:PRJ:off:
+>> Thu,18:11:40 dev:1:192.168.2.204:PRJ:on:
+>> Thu,18:11:41 dev:2:192.168.2.215:PRJ:on:
+>> Thu,18:38:24 dev:3:192.168.2.213:PRJ:on:
+>> Thu,18:38:27 dev:1:192.168.2.204:PRJ:on:
+>> Thu,18:40:29 dev:3:192.168.2.213:PRJ:on:
+>> Thu,18:42:14 dev:3:192.168.2.213:PRJ:off:
+>> Thu,18:43:37 dev:3:192.168.2.213:PRJ:on:
+>> Thu,18:45:32 dev:3:192.168.2.213:PRJ:on:
+>> Thu,18:45:35 dev:3:192.168.2.213:PRJ:off:
+>> Thu,18:54:20 dev:2:192.168.2.215:PRJ:off:
+>> Fri,09:57:28 dev:2:192.168.2.215:PRJ:on:
+>> Fri,09:58:29 dev:2:192.168.2.215:PRJ:off:
+>> Fri,10:02:23 dev:3:192.168.2.213:PRJ:on:
+>> Fri,10:04:26 dev:3:192.168.2.213:PRJ:off:
+>> Fri,10:07:25 dev:3:192.168.2.213:PRJ:on:
+>> Fri,10:10:01 dev:3:192.168.2.213:PRJ:off:
+>> Fri,10:12:26 dev:2:192.168.2.215:PRJ:on:
+>> Fri,10:13:58 dev:3:192.168.2.213:PRJ:on:
+>> Fri,10:15:40 dev:3:192.168.2.213:PRJ:off:
+>> Fri,10:16:26 dev:3:192.168.2.213:PRJ:off:
+>> Fri,10:27:41 dev:3:192.168.2.213:PRJ:on:
+>> Fri,10:28:31 dev:3:192.168.2.213:PRJ:off:
+>> Fri,10:39:32 dev:3:192.168.2.213:PRJ:on:
+>> Fri,10:40:39 dev:2:192.168.2.215:PRJ:off:
+>> Fri,10:40:53 dev:3:192.168.2.213:PRJ:off:
+>> Fri,10:41:46 dev:3:192.168.2.213:PRJ:on:
+>> Fri,10:44:29 dev:3:192.168.2.213:PRJ:off:
+>> Fri,10:45:18 dev:2:192.168.2.215:PRJ:off:
+>> Fri,10:46:05 dev:3:192.168.2.213:PRJ:on:
+>> Fri,10:47:59 dev:2:192.168.2.215:PRJ:on:
+>> Fri,10:53:44 dev:2:192.168.2.215:PRJ:off:
+>> Fri,10:55:14 dev:3:192.168.2.213:PRJ:off:
+>> Fri,10:57:52 dev:3:192.168.2.213:PRJ:on:
+>> Fri,11:01:27 dev:3:192.168.2.213:PRJ:off:
+>> Fri,11:07:09 dev:3:192.168.2.213:PRJ:off:
+>> Fri,11:07:37 dev:3:192.168.2.213:PRJ:on:
+>> Fri,11:09:01 dev:2:192.168.2.215:PRJ:on:
+>> Fri,11:10:23 dev:1:192.168.2.204:PRJ:on:
+>> Fri,11:15:31 dev:1:192.168.2.204:PRJ:off:
+>> Fri,11:15:32 dev:2:192.168.2.215:PRJ:off:
+>> Fri,11:15:33 dev:3:192.168.2.213:PRJ:off:
+>> Fri,11:22:01 dev:1:192.168.2.204:PRJ:off:
+>> Fri,11:57:31 dev:4:192.168.2.202:PRJ:off:
+>> Fri,11:57:52 dev:4:192.168.2.202:PRJ:on:
+>> Fri,12:02:32 dev:4:192.168.2.202:PRJ:off:
+>> Fri,12:03:19 dev:4:192.168.2.202:PRJ:on:
+>> Fri,12:07:32 dev:4:192.168.2.202:PRJ:off:
+>> Fri,12:10:19 dev:4:192.168.2.202:PRJ:on:
+>> Fri,12:11:15 dev:1:192.168.2.204:PRJ:on:
+>> Fri,12:12:30 dev:2:192.168.2.213:PRJ:on:
+>> Fri,12:13:09 dev:3:192.168.2.215:PRJ:on:
+>> Fri,12:29:15 dev:1:192.168.2.204:PRJ:off:
+>> Fri,12:29:16 dev:2:192.168.2.213:PRJ:off:
+>> Fri,12:29:17 dev:3:192.168.2.215:PRJ:off:
+>> Fri,12:29:18 dev:4:192.168.2.202:PRJ:off:
+>> Fri,15:06:52 dev:5:192.168.2.211:PRJ:on:
+>> Fri,15:06:55 dev:5:192.168.2.211:PRJ:on:
+>> Fri,15:06:59 dev:5:192.168.2.211:PRJ:on:
+>> Fri,15:07:07 dev:5:192.168.2.211:RELAY:on:
+>> Fri,15:07:17 dev:5:192.168.2.211:RELAY:off:
+>> Fri,15:08:51 dev:5:192.168.2.211:RELAY:on:
+>> Fri,15:12:36 dev:5:192.168.2.211:RELAY:on:
+>> Fri,15:22:52 dev:5:192.168.2.211:RELAY:on:
+>> Fri,15:22:55 dev:5:192.168.2.211:RELAY:off:
+>> Fri,15:23:02 dev:5:192.168.2.211:RELAY:off:
+>> Fri,15:23:03 dev:5:192.168.2.211:RELAY:on:
+>> Fri,15:23:33 dev:2:192.168.2.213:PRJ:on:
+>> Fri,15:23:34 dev:3:192.168.2.215:PRJ:on:
+>> Fri,15:23:35 dev:4:192.168.2.202:PRJ:on:
+>> Fri,15:23:44 dev:5:192.168.2.211:RELAY:on:
+>> Fri,15:29:48 dev:5:192.168.2.211:RELAY:on:
+>> Fri,15:30:14 dev:5:192.168.2.211:RELAY:off:
+>> Fri,15:32:06 dev:5:192.168.2.211:RELAY:on:
+>> Fri,15:35:06 dev:3:192.168.2.215:PRJ:off:
+>> Fri,16:13:52 dev:6:192.168.2.201:PC:on:
+>> Fri,16:14:11 dev:6:192.168.2.201:PC:on:
+>> Fri,16:14:43 dev:6:192.168.2.201:PC:on:
+>> Fri,16:15:11 dev:6:192.168.2.201:PC:on:
+>> Fri,16:16:01 dev:6:192.168.2.201:PC:on:
+>> Fri,16:16:11 dev:6:192.168.2.201:PC:on:
+>> Fri,16:16:12 dev:6:192.168.2.201:PC:off:
+>> Fri,16:19:05 dev:6:192.168.2.201:PC:on:
+>> Fri,16:19:06 dev:6:192.168.2.201:PC:on:
+>> Fri,16:19:07 dev:6:192.168.2.201:PC:on:
+>> Fri,16:19:08 dev:6:192.168.2.201:PC:on:
+>> Fri,16:19:09 dev:6:192.168.2.201:PC:on:
+>> Fri,16:19:10 dev:6:192.168.2.201:PC:on:
+>> Fri,16:19:11 dev:6:192.168.2.201:PC:on:
+>> Fri,16:19:12 dev:6:192.168.2.201:PC:off:
+>> Fri,16:19:13 dev:6:192.168.2.201:PC:off:
+>> Fri,16:19:16 dev:6:192.168.2.201:PC:on:
+>> Fri,16:19:18 dev:6:192.168.2.201:PC:on:
+>> Fri,16:19:19 dev:6:192.168.2.201:PC:on:
+>> Fri,16:19:19 dev:6:192.168.2.201:PC:on:
+>> Fri,16:19:21 dev:6:192.168.2.201:PC:off:
+>> Fri,16:19:22 dev:6:192.168.2.201:PC:on:
+>> Fri,16:19:23 dev:6:192.168.2.201:PC:on:
+>> Fri,16:19:23 dev:6:192.168.2.201:PC:on:
+>> Fri,16:19:23 dev:6:192.168.2.201:PC:on:
+>> Fri,16:19:25 dev:6:192.168.2.201:PC:on:
+>> Fri,16:19:25 dev:6:192.168.2.201:PC:on:
+>> Fri,16:19:27 dev:6:192.168.2.201:PC:on:
+>> Fri,16:19:27 dev:6:192.168.2.201:PC:on:
+>> Fri,16:19:27 dev:6:192.168.2.201:PC:on:
+>> Fri,16:19:27 dev:6:192.168.2.201:PC:on:
+>> Fri,16:19:27 dev:6:192.168.2.201:PC:on:
+>> Fri,16:19:36 dev:6:192.168.2.201:PC:on:
+>> Fri,16:19:50 dev:6:192.168.2.201:PC:on:
+>> Fri,16:25:00 dev:6:192.168.2.201:PC:on:
+>> Fri,16:27:10 dev:6:192.168.2.201:PC:on:
+>> Fri,16:27:31 dev:6:192.168.2.201:PC:on:
+>> Fri,16:37:23 dev:6:192.168.2.201:PC:on:
+>> Fri,16:37:24 dev:6:192.168.2.201:PC:on:
+>> Fri,16:37:26 dev:6:192.168.2.201:PC:off:
+>> Fri,16:42:26 dev:6:192.168.2.201:PC:on:
+>> Fri,16:43:39 dev:1:192.168.2.204:PRJ:on:
+>> Fri,16:43:44 dev:1:192.168.2.204:PRJ:on:
+>> Fri,16:43:49 dev:2:192.168.2.213:PRJ:on:
+>> Fri,16:43:52 dev:3:192.168.2.215:PRJ:on:
+>> Fri,16:49:06 dev:1:192.168.2.213:PRJ:on:
+>> Fri,16:49:32 dev:2:192.168.2.215:PRJ:on:
+>> Fri,16:50:13 dev:3:192.168.2.202:PRJ:on:
+>> Fri,16:55:55 dev:3:192.168.2.202:PRJ:off:
+>> Fri,16:55:56 dev:4:192.168.2.204:PRJ:off:
+>> Fri,16:56:32 dev:1:192.168.2.213:PRJ:off:
+>> Fri,16:56:36 dev:2:192.168.2.215:PRJ:off:
+>> Fri,16:56:38 dev:5:192.168.2.211:RELAY:off:
+>> Fri,16:56:40 dev:6:192.168.2.201:PC:off:
+>> Fri,16:58:06 dev:5:192.168.2.211:RELAY:off:
+>> Fri,16:58:10 dev:4:192.168.2.204:PRJ:off:
+>> Fri,16:58:36 dev:5:192.168.2.211:RELAY:off:
+>> Fri,17:05:24 dev:5:192.168.2.211:RELAY:off:
+>> Fri,17:05:25 dev:5:192.168.2.211:RELAY:off:
+>> Fri,17:05:26 dev:5:192.168.2.211:RELAY:off:
+>> Fri,17:17:07 dev:1:192.168.2.213:PRJ:on:
+>> Fri,17:18:40 dev:1:192.168.2.213:PRJ:off:
+>> Fri,17:18:58 dev:1:192.168.2.213:PRJ:on:
+>> Fri,17:30:09 dev:2:192.168.2.215:PRJ:on:
+>> Fri,17:53:17 dev:1:192.168.2.213:PRJ:on:
+>> Fri,17:59:34 dev:2:192.168.2.215:PRJ:off:
+>> Fri,17:59:38 dev:1:192.168.2.213:PRJ:off:
+>> Fri,18:01:03 dev:1:192.168.2.213:PRJ:on:
+>> Fri,18:01:04 dev:2:192.168.2.215:PRJ:on:
+>> Fri,18:06:39 dev:3:192.168.2.202:PRJ:on:
+>> Fri,18:13:27 dev:4:192.168.2.204:PRJ:on:
+>> Fri,18:13:38 dev:4:192.168.2.204:PRJ:on:
+>> Fri,18:13:43 dev:4:192.168.2.204:PRJ:on:
+>> Fri,18:14:59 dev:4:192.168.2.204:PRJ:on:
+>> Fri,18:15:42 dev:1:192.168.2.213:PRJ:off:
+>> Fri,18:15:43 dev:2:192.168.2.215:PRJ:off:
+>> Fri,18:15:44 dev:3:192.168.2.202:PRJ:off:
+>> Fri,18:15:46 dev:4:192.168.2.204:PRJ:off:
+>> Fri,18:20:55 dev:1:192.168.2.213:PRJ:on:
+>> Fri,18:20:56 dev:2:192.168.2.215:PRJ:on:
+>> Fri,18:20:57 dev:3:192.168.2.202:PRJ:on:
+>> Fri,18:20:59 dev:4:192.168.2.204:PRJ:on:
+>> Fri,18:23:30 dev:4:192.168.2.204:PRJ:off:
+>> Fri,18:30:44 dev:5:192.168.2.211:RELAY:on:
+>> Fri,18:30:59 dev:5:192.168.2.211:RELAY:off:
+>> Fri,18:36:24 dev:5:192.168.2.211:RELAY:on:
+>> Fri,18:43:45 dev:6:192.168.2.201:PC:on:
+>> Fri,18:43:56 dev:4:192.168.2.204:PRJ:on:
+>> Fri,18:44:30 dev:4:192.168.2.204:PRJ:on:
+>> Fri,18:58:08 dev:1:192.168.2.213:PRJ:on:
+>> Fri,19:12:00 dev:2:192.168.2.215:PRJ:on:
+>> Fri,19:12:02 dev:5:192.168.2.211:RELAY:on:
+>> Fri,19:12:06 dev:4:192.168.2.204:PRJ:on:
+>> Fri,19:26:52 dev:1:192.168.2.213:PRJ:off:
+>> Fri,19:26:53 dev:2:192.168.2.215:PRJ:off:
+>> Fri,19:26:53 dev:3:192.168.2.202:PRJ:off:
+>> Fri,19:26:54 dev:4:192.168.2.204:PRJ:off:
+>> Fri,19:26:54 dev:5:192.168.2.211:RELAY:off:
+>> Fri,19:26:55 dev:6:192.168.2.201:PC:off:
+>> Fri,19:28:02 dev:1:192.168.2.213:PRJ:on:
+>> Fri,19:28:03 dev:2:192.168.2.215:PRJ:on:
+>> Fri,19:28:04 dev:3:192.168.2.202:PRJ:on:
+>> Fri,19:28:05 dev:4:192.168.2.204:PRJ:on:
+>> Fri,19:28:05 dev:5:192.168.2.211:RELAY:on:
+>> Fri,19:28:06 dev:6:192.168.2.201:PC:on:
+>> Fri,19:28:55 dev:4:192.168.2.204:PRJ:on:
+>> Fri,19:30:02 dev:1:192.168.2.213:PRJ:off:
+>> Fri,19:30:04 dev:2:192.168.2.215:PRJ:off:
+>> Fri,19:30:05 dev:3:192.168.2.202:PRJ:off:
+>> Fri,19:30:06 dev:4:192.168.2.204:PRJ:off:
+>> Fri,19:30:08 dev:5:192.168.2.211:RELAY:off:
+>> Fri,19:30:09 dev:6:192.168.2.201:PC:off:
+>> Fri,19:30:34 dev:1:192.168.2.213:PRJ:on:
+>> Fri,19:30:35 dev:2:192.168.2.215:PRJ:on:
+>> Fri,19:30:36 dev:3:192.168.2.202:PRJ:on:
+>> Fri,19:30:38 dev:4:192.168.2.204:PRJ:on:
+>> Fri,19:30:39 dev:5:192.168.2.211:RELAY:on:
+>> Fri,19:30:40 dev:6:192.168.2.201:PC:on:
+>> Fri,19:31:20 dev:4:192.168.2.204:PRJ:on:
+>> Fri,19:31:26 dev:4:192.168.2.204:PRJ:on:
+>> Fri,19:37:13 dev:5:192.168.2.211:RELAY:on:
+>> Fri,20:10:16 dev:2:192.168.2.215:PRJ:off:
+>> Fri,20:10:18 dev:3:192.168.2.202:PRJ:off:
+>> Fri,20:10:19 dev:5:192.168.2.211:RELAY:off:
+>> Fri,20:10:20 dev:6:192.168.2.201:PC:off:
+>> Fri,20:10:21 dev:4:192.168.2.204:PRJ:off:
+>> Mon,09:57:31 dev:1:::off:
+>> Mon,09:57:34 dev:2:::off:
+>> Mon,09:57:34 dev:3:::off:
+>> Mon,09:57:35 dev:4:::off:
+>> Mon,09:57:36 dev:5:::off:
+>> Mon,09:57:36 dev:6:::off:
+>> Mon,10:02:59 dev:1:192.168.2.213:PRJ:on:
+>> Mon,10:04:58 dev:2:192.168.2.215:PRJ:on:
+>> Mon,10:06:50 dev:3:192.168.2.202:PRJ:on:
+>> Mon,10:09:29 dev:4:192.168.2.204:PRJ:on:
+>> Mon,11:29:17 dev:3:192.168.2.202:PRJ:off:
+>> Mon,11:29:20 dev:4:192.168.2.204:PRJ:off:
+>> Mon,11:30:35 dev:1:192.168.2.213:PRJ:on:
+>> Mon,11:30:36 dev:2:192.168.2.215:PRJ:on:
+>> Mon,11:30:36 dev:3:192.168.2.202:PRJ:on:
+>> Mon,11:30:37 dev:4:192.168.2.204:PRJ:on:
+>> Mon,11:30:37 dev:5:192.168.2.201:PC:on:
+>> Mon,11:30:38 dev:6:192.168.2.211:RELAY:on:
+>> Mon,11:40:34 dev:6:192.168.2.211:RELAY:on:
+>> Mon,11:55:06 dev:1:192.168.2.213:PRJ:on:
+>> Mon,11:55:07 dev:2:192.168.2.215:PRJ:on:
+>> Mon,11:55:08 dev:3:192.168.2.202:PRJ:on:
+>> Mon,11:55:08 dev:4:192.168.2.204:PRJ:on:
+>> Mon,11:55:09 dev:5:192.168.2.201:PC:on:
+>> Mon,11:55:10 dev:6:192.168.2.211:RELAY:on:
+>> Mon,12:14:14 group button event
+>> Mon,12:14:28 group button event
+>> Mon,12:14:38 group button event
+>> Mon,17:41:47 dev:1:192.168.2.213:PRJ:off:
+>> Mon,17:41:48 dev:2:192.168.2.215:PRJ:off:
+>> Mon,17:41:48 dev:3:192.168.2.202:PRJ:off:
+>> Mon,17:41:49 dev:4:192.168.2.204:PRJ:off:
+>> Mon,17:41:49 dev:5:192.168.2.201:PC:off:
+>> Mon,17:41:50 dev:6:192.168.2.211:RELAY:off:
+>> Mon,17:45:55 dev:1:192.168.2.213:PRJ:off:
+>> Mon,17:46:18 dev:2:192.168.2.215:PRJ:off:
+>> Mon,17:46:40 dev:3:192.168.2.202::off:
+>> Mon,17:47:17 dev:2:192.168.2.215:PRJ:off:
+>> Mon,17:47:18 dev:3:192.168.2.202:PRJ:off:
+>> Mon,17:48:08 dev:4:192.168.2.204:PRJ:off:
+>> Mon,17:48:43 dev:4:192.168.2.204:PRJ:off:
+>> Mon,17:49:04 dev:5:192.168.2.201:PRJ:off:
+>> Mon,17:49:28 dev:6:192.168.2.211:RELAY:off:
+>> Mon,17:49:28 dev:6:192.168.2.211:RELAY:off:
+>> Mon,17:49:29 dev:6:192.168.2.211:RELAY:off:
+>> Mon,17:49:32 dev:3:192.168.2.202:PRJ:off:
+>> Mon,17:49:32 dev:4:192.168.2.204:PRJ:off:
+>> Mon,17:49:33 dev:5:192.168.2.201:PRJ:off:
+>> Mon,17:49:33 dev:6:192.168.2.211:RELAY:off:
+>> Tue,11:23:42 dev:41:::on:
+>> Thu,10:42:18 dev:1:192.168.2.213:PRJ:off:
+>> Thu,10:42:20 dev:3:192.168.2.215:PRJ:off:
+>> Thu,10:42:21 dev:5:192.168.2.204:PRJ:off:
+>> Thu,10:42:22 dev:7:192.168.2.202:PRJ:off:
+>> Thu,10:44:54 dev:5:192.168.2.201:PC:on:
+>> Thu,10:46:00 dev:5:192.168.2.201:PC:off:
+>> Thu,10:46:54 dev:6:192.168.2.211:RELAY:on:
+>> Thu,10:47:24 dev:6:192.168.2.211:RELAY:off:
+>> Thu,11:20:14 dev:66:::on:
+>> Thu,11:54:07 dev:1::PRJ:on:
+>> Thu,11:54:14 dev:2:::on:
+>> Thu,11:56:25 dev:1::PRJ:on:
+>> Thu,11:56:30 dev:2:::on:
+>> Thu,11:56:34 dev:3::PRJ:on:
+>> Thu,11:56:36 dev:4:::on:
+>> Thu,12:05:59 dev:1:192.168.2.213:PRJ:on:
+>> Thu,12:06:31 dev:1:192.168.2.213:PRJ:on:
+>> Thu,12:07:26 dev:1:192.168.2.213:PRJ:on:
+>> Thu,12:07:42 dev:2:::on:
+>> Thu,12:08:11 dev:1:192.168.2.213:PRJ:off:
+>> Thu,12:08:12 dev:2:::off:
+>> Thu,12:11:18 dev:1:192.168.2.213:PRJ:on:
+>> Thu,12:11:20 dev:2:::on:
+>> Thu,12:11:28 dev:2:::on:
+>> Thu,12:15:20 dev:1:192.168.2.213:PRJ:off:
+>> Thu,12:15:24 dev:2:::on:
+>> Thu,12:21:43 dev:1:192.168.2.213:PRJ:off:
+>> Thu,12:22:31 dev:1:192.168.2.213:PRJ:on:
+>> Thu,12:23:38 dev:2:::on:
+>> Thu,12:24:07 dev:1:192.168.2.213:PRJ:off:
+>> Thu,12:55:39 dev:1:192.168.2.213:PRJ:off:
+>> Thu,12:55:42 dev:3:192.168.2.215:PRJ:off:
+>> Thu,12:55:44 dev:5:192.168.2.202:PRJ:off:
+>> Thu,12:55:45 dev:7:192.168.2.204:PRJ:off:
+>> Thu,14:12:01 dev:1:192.168.2.202:PRJ:off:
+>> Thu,14:12:03 dev:2:::off:
+>> Thu,14:12:04 dev:3:192.168.2.213:PRJ:off:
+>> Thu,14:12:05 dev:4:::off:
+>> Thu,14:12:16 dev:4:::off:
+>> Thu,14:12:18 dev:4:::off:
+>> Thu,14:12:19 dev:4:::off:
+>> Thu,14:12:39 dev:4:::off:
+>> Fri,14:09:28 group button event
+>> Fri,14:09:44 group button event
+>> Fri,14:10:07 group button event
+>> Fri,14:10:20 group button event
+>> Mon,16:04:17 group button event
+>> Tue,16:18:50 group button event
+>> Tue,16:19:07 group button event
+>> Tue,18:07:03 group button event
+>> Wed,16:43:56 group button event
+>> Wed,16:58:11 group button event
+>> Thu,11:10:58 group button event
+>> Thu,11:11:17 group button event
+>> Thu,11:14:59 group button event
+>> Thu,11:15:35 group button event
+>> Thu,11:40:43 group button event
+>> Thu,11:49:30 group button event
+>> Thu,12:00:30 group button event
+>> Thu,15:11:36 group button event
+>> Thu,15:26:03 group button event
+>> Thu,15:36:43 group button event
+>> Thu,15:49:34 group button event
+>> Thu,15:54:50 group button event
+>> Mon,14:08:48 group button event
+>> Mon,14:09:00 group button event
+>> Mon,14:10:50 group button event
+>> Mon,14:12:52 group button event
+>> Mon,14:24:19 group button event
+>> Mon,18:03:34 group button event
+>> Mon,18:04:03 group button event
+>> Mon,18:53:07 group button event
+>> Tue,17:14:33 group button event
+>> Tue,17:14:49 group button event
+>> Wed,12:43:57 group button event
+>> Wed,12:44:11 group button event
+>> Wed,12:45:45 group button event
+>> Wed,15:46:33 group button event
+>> Wed,15:46:50 group button event
+>> Wed,16:07:48 group button event
+>> Wed,16:18:51 group button event
+>> Wed,16:19:18 group button event
+>> Mon,10:18:20 group button event
+>> Mon,10:19:46 group button event
+>> Mon,10:19:55 group button event
+>> Mon,10:20:11 group button event
+>> Mon,10:20:42 group button event
+>> Mon,10:23:29 group button event
+>> Mon,10:24:34 group button event
+>> Mon,10:24:51 group button event
+>> Fri,12:18:36 group button event
+>> Fri,12:24:31 group button event
+>> Fri,13:03:10 group button event
+>> Fri,14:27:38 group button event
+>> Fri,14:35:20 group button event
+>> Fri,14:38:14 group button event
+>> Fri,14:39:24 group button event
+>> Fri,15:06:11 group button event
+>> Fri,15:08:27 group button event
+>> Fri,15:10:27 group button event
+>> Fri,15:12:51 group button event
+>> Fri,15:15:49 group button event
+>> Fri,15:18:36 group button event
+>> Fri,15:22:27 group button event
+>> Fri,15:25:31 group button event
+>> Fri,15:27:57 group button event
+>> Fri,15:31:12 group button event
+>> Fri,15:34:56 group button event
+>> Fri,15:38:38 group button event
+>> Fri,15:46:58 group button event
+>> Fri,15:58:08 group button event
+>> Fri,16:02:40 group button event
+>> Fri,16:04:15 group button event
+>> Fri,16:08:30 group button event
+>> Fri,16:10:49 group button event
+>> Fri,16:27:35 group button event
+>> Fri,16:36:52 group button event
+>> Fri,16:56:47 group button event
+>> Fri,16:59:12 group button event
+>> Fri,17:01:19 group button event
+>> Fri,18:18:24 group button event
+>> Fri,18:20:33 group button event
+>> Fri,18:21:27 group button event
+>> Fri,18:24:31 group button event
+>> Wed,14:23:58 group button event
+>> Wed,14:27:42 group button event
+>> Wed,14:31:58 group button event
+>> Wed,14:32:50 group button event
+>> Wed,14:56:25 group button event
+>> Wed,15:01:50 group button event
+>> Wed,15:02:01 group button event
+>> Wed,15:18:37 group button event
+>> Wed,15:53:02 group button event
+>> Wed,16:00:08 group button event
+>> Wed,16:26:49 group button event
+>> Wed,17:27:51 group button event
+>> Wed,17:28:00 group button event
+>> Wed,17:29:49 group button event
+>> Wed,17:33:37 group button event
+>> Wed,18:20:34 group button event
+>> Fri,16:22:58 group button event
+>> Fri,16:23:33 group button event
+>> Fri,16:24:50 group button event
+>> Fri,16:25:24 group button event
+>> Fri,16:41:32 group button event
+>> Fri,17:48:11 group button event
+>> Mon,11:43:59 group button event
+>> Mon,12:04:47 group button event
+>> Mon,15:26:13 group button event
+>> Mon,17:34:42 group button event

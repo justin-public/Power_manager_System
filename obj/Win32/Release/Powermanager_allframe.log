@@ -1,0 +1,193 @@
+﻿  GUI.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\libs\openframeworks\utils\ofutils.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofvec3f.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofvec2f.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\addons\ofxdatgui\src\components\ofxdatguislider.h(339): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\addons\ofxdatgui\src\components\ofxdatguimatrix.h(184): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\addons\ofxdatgui\src\components\ofxdatguimatrix.h(215): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\addons\ofxdatgui\src\components\ofxdatguimatrix.h(218): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\addons\ofxdatgui\src\components\ofxdatguimatrix.h(230): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\addons\ofxdatgui\src\components\ofxdatguimatrix.h(236): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\addons\ofxdatgui\src\components\ofxdatguimatrix.h(242): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\addons\ofxdatgui\src\components\ofxdatguimatrix.h(249): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\addons\ofxdatgui\src\components\ofxdatguimatrix.h(283): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\addons\ofxdatgui\src\components\ofxdatguimatrix.h(290): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\addons\ofxdatgui\src\components\ofxdatguitimegraph.h(91): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\addons\ofxdatgui\src\components\ofxdatguitimegraph.h(105): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\addons\ofxdatgui\src\components\ofxdatguitimegraph.h(116): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\addons\ofxdatgui\src\components\ofxdatguitimegraph.h(127): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\addons\ofxdatgui\src\components\ofxdatguitimegraph.h(286): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\addons\ofxdatgui\src\components\ofxdatguitimegraph.h(288): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\addons\ofxdatgui\src\components\ofxdatguiscrollview.h(123): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\addons\ofxdatgui\src\components\ofxdatguiscrollview.h(147): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\addons\ofxdatgui\src\components\ofxdatguiscrollview.h(217): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\addons\ofxdatgui\src\components\ofxdatguiscrollview.h(312): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\addons\ofxdatgui\src\components\ofxdatguiscrollview.h(319): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\addons\ofxdatgui\src\components\ofxdatguiscrollview.h(330): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\addons\ofxdatgui\src\components\ofxdatguiscrollview.h(339): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\addons\ofxdatgui\src\components\ofxdatguigroups.h(97): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\addons\ofxdatgui\src\components\ofxdatguigroups.h(107): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\addons\ofxdatgui\src\components\ofxdatguigroups.h(121): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\addons\ofxdatgui\src\components\ofxdatguigroups.h(197): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\addons\ofxdatgui\src\components\ofxdatguigroups.h(404): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\addons\ofxdatgui\src\components\ofxdatguigroups.h(454): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\addons\ofxdatgui\src\components\ofxdatguigroups.h(483): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\addons\ofxdatgui\src\components\ofxdatguigroups.h(521): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(739): warning C4996: 'ofRect': Use ofDrawRectangle instead
+  c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\libs\openframeworks\graphics\ofgraphics.h(512): note: 'ofRect' 선언을 참조하십시오.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(750): warning C4996: 'ofRect': Use ofDrawRectangle instead
+  c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\libs\openframeworks\graphics\ofgraphics.h(512): note: 'ofRect' 선언을 참조하십시오.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(761): warning C4996: 'ofRect': Use ofDrawRectangle instead
+  c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\libs\openframeworks\graphics\ofgraphics.h(512): note: 'ofRect' 선언을 참조하십시오.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(772): warning C4996: 'ofRect': Use ofDrawRectangle instead
+  c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\libs\openframeworks\graphics\ofgraphics.h(512): note: 'ofRect' 선언을 참조하십시오.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(783): warning C4996: 'ofRect': Use ofDrawRectangle instead
+  c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\libs\openframeworks\graphics\ofgraphics.h(512): note: 'ofRect' 선언을 참조하십시오.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(794): warning C4996: 'ofRect': Use ofDrawRectangle instead
+  c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\libs\openframeworks\graphics\ofgraphics.h(512): note: 'ofRect' 선언을 참조하십시오.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(950): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(951): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(955): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(966): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(967): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(970): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(1008): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(1211): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(1212): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(1215): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(1243): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(1267): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(1323): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(1324): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(1328): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(1355): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(1411): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(1412): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(1425): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(1450): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(1451): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(1463): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(1397): warning C4101: 'searchindex' :참조되지 않은 지역 변수입니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(1784): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(1785): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(1789): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(1801): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(1804): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(1831): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(1832): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(1963): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(1964): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(2016): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(2017): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(2277): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(2278): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(2336): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(2337): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(2452): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(2453): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(2536): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(2537): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(2541): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(2552): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(2555): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(2577): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(2578): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(2708): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(2709): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(2745): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(2786): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(2787): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(2790): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(2798): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(2812): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(2813): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(2816): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(2832): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(2833): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(2836): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(2858): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(2859): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(2862): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(2878): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(2879): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(2882): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(2908): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(2909): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(2912): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(2918): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(2930): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(2931): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(2934): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(2950): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(2951): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(2954): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(2976): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(2977): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(2980): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(2996): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(2997): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(3000): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(3024): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(3025): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(3028): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(3035): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(3044): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(3047): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(3048): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(3051): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(3053): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(3075): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(3078): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(3079): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(3082): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(3084): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(3111): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(3112): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(3115): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(3121): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(3133): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(3134): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(3137): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(3153): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(3154): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(3157): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(3179): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(3180): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(3183): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(3199): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(3200): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(3203): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(3227): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(3228): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(3231): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(3238): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(3246): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(3249): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(3250): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(3253): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(3255): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(3393): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(3394): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(3397): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(3412): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(3413): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(3416): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(3434): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(3435): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(3438): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(3462): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(3463): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(3466): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sub_103\documents\work\of_v0.11.2_vs2017_release\apps\myapps\powermanager_allframe\src\gui.cpp(2497): warning C4101: 'searchindex5' :참조되지 않은 지역 변수입니다.
+     bin\Powermanager_allframe.lib 라이브러리 및 bin\Powermanager_allframe.exp 개체를 생성하고 있습니다.
+  LINK : /LTCG를 지정했지만 코드를 생성할 필요가 없습니다. 명령줄에서 /LTCG를 제거하면 링커 성능이 향상됩니다.
+fontstash.obj : warning LNK4049: 지역으로 정의된 기호 ___glewGenerateMipmap을(를) 가져왔습니다.
+  Powermanager_allframe.vcxproj -> C:\Users\sub_103\Documents\work\of_v0.11.2_vs2017_release\apps\myApps\Powermanager_allframe\bin\Powermanager_allframe.exe
+  
+  	                   2	C:\Users\sub_103\Documents\work\of_v0.11.2_vs2017_release\libs\fmod\lib\vs\Win32\
+  	  *추가 파일  		 6018560	C:\Users\sub_103\Documents\work\of_v0.11.2_vs2017_release\apps\myApps\Powermanager_allframe\bin\FreeImage.dll
+  
+  	                   1	C:\Users\sub_103\Documents\work\of_v0.11.2_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *추가 파일  		 1544704	C:\Users\sub_103\Documents\work\of_v0.11.2_vs2017_release\apps\myApps\Powermanager_allframe\bin\fmod.dll
+  	  *추가 파일  		 1733120	C:\Users\sub_103\Documents\work\of_v0.11.2_vs2017_release\apps\myApps\Powermanager_allframe\bin\fmodL.dll
